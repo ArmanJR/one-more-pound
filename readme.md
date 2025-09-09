@@ -2,13 +2,9 @@
 
 A simple Chrome extension that shifts all Markdown headings one level deeper (e.g. `#` → `##`, `##` → `###`) before you paste them into Notion, Obsidian or your markdown notes.
 
----
-
 ## Why?
 
 When pasting AI responses into my notes, I noticed the Markdown headings (`# Intro`, `## Details`) were too “high-level” and messed up the structure of my existing notes. This extension fixes that by bumping all headings down one level.
-
----
 
 ## Installation
 
@@ -17,8 +13,6 @@ When pasting AI responses into my notes, I noticed the Markdown headings (`# Int
 3. Enable **Developer mode** (toggle in the top right).
 4. Click **Load unpacked** and select this folder.
 5. The extension icon will appear in your toolbar.
-
----
 
 ## Usage
 
