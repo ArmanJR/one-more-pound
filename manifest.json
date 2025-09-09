@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "One More Pound",
+  "version": "1.0",
+  "description": "Shift all Markdown headings one level deeper before pasting into Notion / Obsidian",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
+
